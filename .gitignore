@@ -1,0 +1,42 @@
+# ========== BACKEND: Django ==========
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+.env.*
+
+# Django specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+media/
+staticfiles/
+static_root/
+celerybeat-schedule
+*.sqlite3
+
+# VSCode / editor stuff
+.vscode/
+.idea/
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# ========== FRONTEND: React + Vite ==========
+node_modules/
+dist/
+build/
+.env
+.env.*
+
+# Vite cache
+.vite/
+
+# ========== SYSTEM FILES ==========
+.DS_Store
+Thumbs.db
+*.bat
