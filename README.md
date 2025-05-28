@@ -1,4 +1,4 @@
-# 💻 Computer Specs App
+# 💻 Computer Specs
 
 Aplicación web para consultar, agregar, editar y eliminar especificaciones de computadores portátiles.  
 Desarrollada con **Django REST Framework** en el backend y **React + Vite + TailwindCSS** en el frontend.
